@@ -1,3 +1,4 @@
 cc = 10
 zxczxczxc = 29
-print (cc + zxczxczxc)
+zz = 10
+print (cc + zxczxczxc + zz)
