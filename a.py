@@ -1,2 +1,3 @@
 cc = 10
-print (cc)
+b = 2
+print (cc + b)
